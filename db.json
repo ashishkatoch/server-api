@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Ashish Katoch",
+      "email": "ak@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Karan Bansal",
+      "email": "karan1001@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Arun Saklani",
+      "email": "talet@arun.com",
+      "id": 3
+    },
+    {
+      "name": "Paraminder Singh",
+      "email": "param@singh.com",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "vishu katoch",
+      "email": "vishu@gmail.com"
+    }
+  ]
+}
